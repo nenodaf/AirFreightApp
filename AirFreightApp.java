@@ -2,6 +2,16 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
+/*
+CPCS-324 Project, Part2 
+Nawal Daftardar 2105630 
+Atheer Alshehri 2105551
+Yara Basager 2105735
+Yasmeen Alhadrami 2107611
+
+*/
+
+
 package airfreightapp;
 
 import GraphFramework.DBAIISourceSPAlg;
